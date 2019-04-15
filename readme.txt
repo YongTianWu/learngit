@@ -10,4 +10,4 @@ add merge
 
 Creating a new branch is quick.
 
-test chongtu1 master.
+test chongtu1
